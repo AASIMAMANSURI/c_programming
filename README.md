@@ -1,2 +1,2 @@
 # c_programming
-c programs
+this repository contains c programs
